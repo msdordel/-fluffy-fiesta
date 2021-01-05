@@ -1,2 +1,2 @@
-# -fluffy-fiesta
+# fluffy-fiesta
 Rails Stuff
